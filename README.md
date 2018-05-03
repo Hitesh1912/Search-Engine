@@ -60,7 +60,7 @@ bm25_TASK3.py
 query-likelihood_TASK3.py
 tfidf_TASK3.py
 
-# for running invertedIndex_TASK3.py use  tokenized_Files_Stemmed directory
+for running invertedIndex_TASK3.py use  tokenized_Files_Stemmed directory
 Output:
 BM25-stemmed-ranking.txt
 BM25-stopping-ranking.txt
@@ -70,7 +70,7 @@ Tidf-stemmed-ranking.txt
 tidf-stopped-ranking.txt
 
 ==============================================================================
-Phase 2
+# Phase 2
 
 Snippet generation
 
@@ -82,7 +82,7 @@ Output-snippetGenerator.html can be viewed to see the snippet generation.
 
 ==============================================================================
 
-Phase 3
+# Phase 3
 Source code- evaluation.py
 
 Evaluation function takes relevance input is taken as the first input, second in the ranking in top100,output destination file which will provide the recall,precisions in tabular column and also calculate the MRR,MAP values
@@ -90,7 +90,7 @@ Evaluation function takes relevance input is taken as the first input, second in
 ================================================================================
 
 
-Extra credit:
+# Extra credit:
 Task 1)
 Source code:
 spellErrorGenerator.py
